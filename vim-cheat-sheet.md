@@ -48,6 +48,7 @@
 - Delete from current position to a specific line number: d<line number>G
 - Deleting all items in a file that start with a pattern: :g/< search term>/d
 - Deleting all lines that are empty or that contain only whitespace: :g/^\s*$/d
+- Delete without highlighting ci {} () []
 
 
 ### Selecting
