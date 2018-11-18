@@ -30,7 +30,7 @@
 - Paste copied line: p
 - Change multiple words: 5cw
 - Insert at the end of the line: A
-
+- change settings vim ~/.vimrc
 
 ### Deleting
 
